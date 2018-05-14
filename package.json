@@ -1,0 +1,26 @@
+{
+  "name": "svg-button",
+  "version": "0.2.3",
+  "main": "src/button.js",
+  "author": "Attila Molnar <ate.molnar2@gmail.com>",
+  "license": { "type": "MIT",
+               "url": "https://www.opensource.org/licenses/mit-license.php"
+             },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AttilaVM/svg-button"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-es2015-rollup": "^3.0.0",
+    "eslint-plugin-destructuring": "^2.1.0",
+    "gulp": "^3.9.1",
+    "rollup": "^0.57.1",
+    "rollup-plugin-babel": "^3.0.3",
+    "rollup-plugin-eslint": "^4.0.0",
+    "rollup-plugin-node-resolve": "^3.3.0",
+    "rollup-plugin-root-import": "^0.2.2",
+    "rollup-plugin-uglify": "^3.0.0"
+  }
+}

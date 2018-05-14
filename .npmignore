@@ -1,0 +1,8 @@
+/node_modules
+/.tmp
+**/*~
+**/*#
+yarn.lock
+demo/range.js
+demo/range.js.map
+yarn-error.log
